@@ -264,14 +264,56 @@ git clone URL_DEL_REPOSITORIO
 
 ---
 
-# Capturas requeridas
+## Evidencias del Proyecto
 
-Agregar:
+Las evidencias del desarrollo se encuentran organizadas en la carpeta:
 
-✅ Loading
+```text
+/evidencias/
+```
 
-✅ Success
+Estas capturas se dividen según cada actividad del módulo CI/CD.
 
-✅ Error
+---
 
-✅ Navegación funcionando
+# 📌 Post-Contenido 1 — CI/CD con GitHub Actions
+
+Evidencias correspondientes a la implementación del pipeline básico de integración y entrega continua.
+
+---
+
+## Ejecución del pipeline (GitHub Actions)
+
+![actions_post1](evidencias/captura_actions_post1.png)
+
+---
+
+## Generación de artefactos del build
+
+![artefactos_post1](evidencias/captura_artefactos_post1.png)
+
+---
+
+## Distribución en Firebase App Distribution
+
+![firebase_post1](evidencias/captura_firebase_post1.png)
+
+---
+
+## Verificación del APK firmado
+
+![apk_firmado_post1](evidencias/captura_apk_firmado_post1.png)
+
+---
+
+## Reporte de cobertura JaCoCo
+
+![jacoco_post1](evidencias/captura_jacoco_post1.png)
+
+---
+
+## Validación de cobertura (Quality Gate)
+
+![cobertura_post1](evidencias/captura_cobertura_post1.png)
+
+---
