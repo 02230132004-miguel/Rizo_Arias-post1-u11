@@ -286,14 +286,14 @@ Estas capturas se dividen según cada actividad del módulo CI/CD.
 
 ---
 
-## Loading, Success y Error
+## Navegacion
 
-![artefactos_post1](evidencias/captura_artefactos_post1.png)
+![artefactos_post1](evidencias/cap2.png)
 
 ---
 
-## Loading, Success y Error
+## Estado de rotacion
 
-![firebase_post1](evidencias/captura_firebase_post1.png)
+![firebase_post1](evidencias/cap3.png)
 
 
