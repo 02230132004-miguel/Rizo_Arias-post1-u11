@@ -280,38 +280,20 @@ Estas capturas se dividen según cada actividad del módulo CI/CD.
 
 ---
 
-## Ejecución del pipeline (GitHub Actions)
+## Loading, Success y Error
 
-![actions_post1](evidencias/captura_actions_post1.png)
+![actions_post1](evidencias/cap1.png)
 
 ---
 
-## Generación de artefactos del build
+## Loading, Success y Error
 
 ![artefactos_post1](evidencias/captura_artefactos_post1.png)
 
 ---
 
-## Distribución en Firebase App Distribution
+## Loading, Success y Error
 
 ![firebase_post1](evidencias/captura_firebase_post1.png)
 
----
 
-## Verificación del APK firmado
-
-![apk_firmado_post1](evidencias/captura_apk_firmado_post1.png)
-
----
-
-## Reporte de cobertura JaCoCo
-
-![jacoco_post1](evidencias/captura_jacoco_post1.png)
-
----
-
-## Validación de cobertura (Quality Gate)
-
-![cobertura_post1](evidencias/captura_cobertura_post1.png)
-
----
