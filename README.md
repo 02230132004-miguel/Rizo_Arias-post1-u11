@@ -276,9 +276,7 @@ Estas capturas se dividen según cada actividad del módulo CI/CD.
 
 ---
 
-# 📌 Post-Contenido 1 — CI/CD con GitHub Actions
-
-Evidencias correspondientes a la implementación del pipeline básico de integración y entrega continua.
+# Evidencias 
 
 ---
 
