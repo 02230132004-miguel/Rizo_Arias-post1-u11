@@ -288,12 +288,12 @@ Estas capturas se dividen según cada actividad del módulo CI/CD.
 
 ## Navegacion
 
-![artefactos_post1](evidencias/cap2.png)
+![artefactos_post1](evidencias/cap3.png)
 
 ---
 
 ## Estado de rotacion
 
-![firebase_post1](evidencias/cap3.png)
+![firebase_post1](evidencias/cap2.png)
 
 
